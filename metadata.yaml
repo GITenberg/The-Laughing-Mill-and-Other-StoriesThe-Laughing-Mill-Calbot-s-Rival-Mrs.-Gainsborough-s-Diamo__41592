@@ -1,0 +1,30 @@
+_repo: The-Laughing-Mill-and-Other-StoriesThe-Laughing-Mill-Calbot-s-Rival-Mrs.-Gainsborough-s-Diamo__41592
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41592-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hawthorne, Julian
+    birthdate: 1846
+    deathdate: 1934
+    gutenberg_agent_id: '675'
+    url: http://www.gutenberg.org/2009/agents/675
+    wikipedia: http://en.wikipedia.org/wiki/Julian_Hawthorne
+description: The laughing mill -- Calbot's rival -- Mrs. Gainsborough's diamonds --
+  The Christmas guest.
+gutenberg_issued: '2012-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41592'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction -- 19th century'
+- !lcc 'PS'
+tableOfContents: 'The laughing mill -- Calbot''s rival -- Mrs. Gainsborough''s diamonds
+  -- The Christmas guest: a myth.'
+title: The Laughing Mill, and Other Stories
+url: http://www.gutenberg.org/ebooks/41592
